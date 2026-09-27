@@ -1,0 +1,5 @@
+Linear Regression - House Price Prediction
+-------------------------------------------
+MAE  : 243241.98
+RMSE : 279859.73
+R2   : -0.0067
